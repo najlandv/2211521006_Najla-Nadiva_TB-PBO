@@ -59,7 +59,7 @@ public class VirtualDemo {
                         System.out.println("5. Input Data Pembelian");
                         System.out.println("6. Keluar");
                         System.out.println("***************************************");
-                        System.out.println("PESANAN AKAN SIAP DI HARI BERIKUTNYA (H-1)");
+                        System.out.println("PESANAN AKAN SIAP DI HARI BERIKUTNYA");
                         System.out.println("Pesan sekarang untuk menikmati kelezatan!");
                         System.out.println("\n");
                         System.out.print("Pilih menu (1-6): ");
